@@ -34,6 +34,7 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
     [Tutorial de uso](./tutorial.md) 
     Haciendo [Steam con micro:bit](./STEM.md)
 2. Robótica sencilla con la plataforma micro:bit:
+* [Robotic car](./car.md)
 * [Maqueen micro:bit](./MaQueen.md)
 3. [Ejemplos](./ejemplos.md) de algunos proyectos sencillos
 4. Exposición de proyectos realizados
@@ -41,6 +42,10 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
 # BBC [Micro:bit](./microbit.md)
 
 ![micro:bit](./images/redirect_scrolling_bit.gif)
+
+# [Robotic car](./car.md)
+
+![coche microbit](https://microbit.micro-log.com/wp-content/uploads/2019/03/microbit-1024x576.jpg)
 
 # [Robot maqueen](./MaQueen.md)
 
