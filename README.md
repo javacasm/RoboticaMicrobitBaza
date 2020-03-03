@@ -28,16 +28,17 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
 
 ## Contenidos
 
-0. [Índice](./Indice.md)
+1. [Índice](./Indice.md)
 1. [Introducción a la robótica](./IniciacionRobotica.md). 
-    La placa [micro:bit](./microbit.md).
-    [Tutorial de uso](./tutorial.md) 
-    Haciendo [Steam con micro:bit](./STEM.md)
-2. Robótica sencilla con la plataforma micro:bit:
-* [Robotic car](./car.md)
-* [Maqueen micro:bit](./MaQueen.md)
-3. [Ejemplos](./ejemplos.md) de algunos proyectos sencillos
-4. Exposición de proyectos realizados
+1. La placa [micro:bit](./microbit.md).
+    * [Tutorial de uso](./tutorial.md) 
+    Haciendo 
+    * [Steam con micro:bit](./STEM.md)
+1. Robótica sencilla con la plataforma micro:bit:
+    * [Robotic car](./car.md)
+    * [Maqueen micro:bit](./MaQueen.md)
+1. [Ejemplos](./ejemplos.md) de algunos proyectos sencillos
+1. Exposición de proyectos realizados
 
 # BBC [Micro:bit](./microbit.md)
 
