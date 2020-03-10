@@ -17,7 +17,6 @@
 ![hardware](http://microbit.org/images/microbit-hardware.png)
 ![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
 
-![pinout2](https://microbit.org/images/microbit-pins.jpg)
 
 #### Alimentación
 
