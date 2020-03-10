@@ -1,7 +1,9 @@
 # BBC-microbit
 
-![microbit front](http://microbit.org/images/microbit-front.png)
-![microbit back](http://microbit.org/images/microbit-back.png)
+![microbit front](./images/micro:bit_front.png)
+![microbit back](./images/micro:bit_back.png)
+
+[Detalles](https://microbit.org/get-started/user-guide/overview/)
 
 [Fundación microbit](http://microbit.org/es/)
 
