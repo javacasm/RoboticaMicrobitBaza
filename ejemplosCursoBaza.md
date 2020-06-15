@@ -2,19 +2,65 @@
 
 ## [Saludo](https://makecode.microbit.org/_VLbJ3HUa8Apm)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_VLbJ3HUa8Apm" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+![BloquesSaludo](./images/BloquesSaludo.png)
 
+
+## [Iconos](https://makecode.microbit.org/_1fgT2wJfPfRm)
+
+![BloquesIconos](./images/BloquesIconos.png)
 
 ## [Dado](https://makecode.microbit.org/_erxD3veibFKp)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_erxD3veibFKp" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+![BloqueDado](./images/BloqueDado.png)
 
 ## [Termómetro](https://makecode.microbit.org/_Cvo0YaJdHhKq)
 
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_Cvo0YaJdHhKq" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+![BloquesTermometro](./images/BloquesTermometro.png)
 
 ## [Dado v2](https://makecode.microbit.org/_W2d1cvabFJDp)
 
+![BloquesDadoV2](./images/BloquesDadoV2.png)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_W2d1cvabFJDp" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+## [Termostado](https://makecode.microbit.org/_R81X2fiDU7Uy)
+
+![BloquesTermostado](./images/BloquesTermostado.png)
+
+## [Control Nivel luminoso](https://makecode.microbit.org/_CpDfra1hDe37)
+
+![BloquesControlLuminoso](./images/BloquesControlLuminoso.png)
+
+## [Control Nivel luminoso v2](https://makecode.microbit.org/_EKofv6UEfLYt)
+
+![BloquesControlNivelLuminosov2](./images/BloquesControlNivelLuminosov2.png)
+
+## [Control Nivel luminoso v3](https://makecode.microbit.org/_Hyxg4PPbTeux)
+
+![BloquesControlNivelluminosov3](./images/BloquesControlNivelluminosov3.png)
+
+## [Gestos](https://makecode.microbit.org/_DujPH54rq0h2)
+
+![BloquesGestos](./images/BloquesGestos.png)
+
+## [¿A quien le toca?](https://makecode.microbit.org/_4paTmUARmDdH)
+
+![bloquesAQuienLeToca](./images/bloquesAQuienLeToca.png)
+
+## [Tabla del 7](https://makecode.microbit.org/_guxTMaT4gDfA)
+
+![BloquesTableDel7](./images/BloquesTableDel7.png)
+
+
+# Robot
+
+## [Movimiento Sencillos Robot](https://makecode.microbit.org/_MLz0vWWh286t)
+
+![BloquesMovimientosSencillosRobot](./images/BloquesMovimientosSencillosRobot.png)
+
+## []()
+
+![](./images/.png)
+
+## []()
+
+![](./images/.png)
