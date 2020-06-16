@@ -15,6 +15,8 @@
 |10/03/2020|16:30-19:30
 |17/03/2020|16:30-19:30
 |24/03/2020|16:30-19:30
+|16/06/2020|16:30:18:30
+|17/06/2020|16:30:18:30
 
 ## http://bit.ly/mbitBaza
 
@@ -36,7 +38,8 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
     * [Steam con micro:bit](./STEM.md)
 1. Robótica sencilla con la plataforma micro:bit:
     * [Robotic car](./car.md)
-    * [Maqueen                                                                                      ](./MaQueen.md)
+    * [Maqueen](./MaQueen.md)
+1. [Ejemplos hechos](./ejemplosCursoBaza.md)
 1. [Ejemplos](./ejemplos.md) de algunos proyectos sencillos
 1. Exposición de proyectos realizados
 
