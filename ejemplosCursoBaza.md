@@ -57,10 +57,12 @@
 
 ![BloquesMovimientosSencillosRobot](./images/BloquesMovimientosSencillosRobot.png)
 
-## []()
+## [Botones](https://makecode.microbit.org/_6VMhyP5PogDV)
 
 ![](./images/.png)
 
-## []()
+## [Sensores](https://makecode.microbit.org/_TH32AbJUeF4H)
 
 ![](./images/.png)
+
+[Luces colores](https://makecode.microbit.org/_6u1AeuhEEACU)
