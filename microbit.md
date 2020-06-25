@@ -14,8 +14,8 @@
 ### [Hardware](http://microbit.org/es/hardware/)
 
 
-![hardware](http://microbit.org/images/microbit-hardware.png)
-![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
+![hardware](./images/microbit-overview-1-5.png)
+![pinout](./images/microbit_pinout_v10.png)
 
 
 #### Alimentación
